@@ -71,5 +71,4 @@ app.all('*', async (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Optimized Crunchyroll Proxy Server running on port ${PORT}`);
-});
-```[cite: 1]
+}):
