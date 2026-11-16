@@ -22,9 +22,9 @@ const CRUNCHYROLL_AUTH_RESPONSE = {
 const CRUNCHYROLL_USER_ACCOUNT = {
   "account_id": "bb38a5c7-b23e-5867-99d8-8bb5fe96d7b7",
   "external_id": "1294791447",
-  "email": "",
+  "email": "xjaatteam@gmail.com",
   "phone": "",
-  "email_verified": false,
+  "email_verified": true,
   "has_password": true,
   "created": "2026-08-26T10:46:07Z"
 };
